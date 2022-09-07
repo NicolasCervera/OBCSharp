@@ -1,0 +1,14 @@
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\bin\Debug\netcoreapp3.1\PracticaBC.exe
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\bin\Debug\netcoreapp3.1\PracticaBC.deps.json
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\bin\Debug\netcoreapp3.1\PracticaBC.runtimeconfig.json
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\bin\Debug\netcoreapp3.1\PracticaBC.runtimeconfig.dev.json
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\bin\Debug\netcoreapp3.1\PracticaBC.dll
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\bin\Debug\netcoreapp3.1\PracticaBC.pdb
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.csproj.AssemblyReference.cache
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.AssemblyInfoInputs.cache
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.AssemblyInfo.cs
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.csproj.CoreCompileInputs.cache
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.dll
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.pdb
+C:\Users\nicod\source\repos\PracticaBC\PracticaBC\obj\Debug\netcoreapp3.1\PracticaBC.genruntimeconfig.cache
